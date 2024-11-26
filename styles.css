@@ -1,0 +1,7 @@
+/*div {
+    border: 1px red dashed;
+}*/
+
+select option:disabled {
+    color: #6c757d; 
+}
